@@ -4,7 +4,6 @@ import org.testng.annotations.Test;
 import org.openqa.selenium.By;
 import java.util.List;
 import static org.testng.AssertJUnit.assertEquals;
-import static org.testng.AssertJUnit.assertTrue;
 
 
 public class JavaScriptAlerts extends Driver{
